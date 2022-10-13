@@ -1,7 +1,7 @@
 # Business-Landing-Page-12
 
 
-#### :mag: This is a sample website home page which demonstrates the interior business landing page theme!
+#### :mag: This is a sample website home page which demonstrates the interior business services landing page theme!
 
 #### 🖥️ Tech used: HTML & CSS
 
